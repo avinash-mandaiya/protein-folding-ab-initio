@@ -1,0 +1,15 @@
+./NIR4 1LB0 10 -250.0 10 t16 0.5 100000 200 0.0005 0.0001 2 15.0 7 4 1. 1. 1. 1.0 0.2 
+
+Protein Size: 13
+
+Residue Types:
+5 17 17 5 17 3 7 14 20 12 17 14 2 
+
+
+Time elapsed:    1458.69 
+iterations/sec:     68.55
+
+
+
+WeightsAD:
+
